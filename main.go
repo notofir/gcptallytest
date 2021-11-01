@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/chupa-io/gcp-monitoring-tally/reporter"
-	"github.com/uber-go/tally"
+	"github.com/uber-go/tally/v4"
 	"go.uber.org/zap"
 )
 

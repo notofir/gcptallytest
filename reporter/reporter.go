@@ -7,7 +7,7 @@ import (
 	"time"
 
 	monitoring "cloud.google.com/go/monitoring/apiv3"
-	"github.com/uber-go/tally"
+	"github.com/uber-go/tally/v4"
 	"go.uber.org/fx"
 	"go.uber.org/zap"
 	metricpb "google.golang.org/genproto/googleapis/api/metric"
