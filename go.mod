@@ -1,4 +1,4 @@
-module github.com/chupa-io/gcp-monitoring-tally
+module github.com/notofir/gcptallytest
 
 go 1.16
 
